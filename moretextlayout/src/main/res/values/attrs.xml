@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MoreTextLayout">
+        <attr name="mtlExpandLines" format="integer" />
+        <attr name="mtlShrinkBitmap" format="reference" />
+        <attr name="mtlExpandBitmap" format="reference" />
+        <attr name="mtlTextStateColor" format="color" />
+        <!--<attr name="mtlTextContentColor" format="color" />-->
+        <!--<attr name="mtlTextContentSize" format="dimension" />-->
+        <attr name="mtlTextShrink" format="string" />
+        <attr name="mtlTextExpand" format="string" />
+    </declare-styleable>
+</resources>
